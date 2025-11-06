@@ -1,1 +1,1 @@
-![fuction](https://github.com/user-attachments/assets/af4c524e-a50b-45c9-86df-37fd5ee1ee27)
+![Screenshot_20251105_142006](https://github.com/user-attachments/assets/75028fce-6e47-40fa-9ee3-210893739c35)
