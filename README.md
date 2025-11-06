@@ -1,6 +1,6 @@
 # Hackerrank Problem Solving Solutions
 
-[![HackerRank Banner](<img width="613" height="80" alt="image" src="https://github.com/user-attachments/assets/ac05051f-530a-4ce7-b756-9ff070a94644" />)](https://www.hackerrank.com/profile/2ab_miamey>)
+[![HackerRank Banner](<img width="613" height="80" alt="image" src="https://github.com/user-attachments/assets/ac05051f-530a-4ce7-b756-9ff070a94644" />)](https://www.hackerrank.com/profile/2ab_miamey)
 
 
 
