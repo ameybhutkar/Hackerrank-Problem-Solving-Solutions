@@ -13,3 +13,4 @@ result = sorted(count.items(), key=lambda x: (-x[1], x[0]))
 # Print top 3
 for char, freq in result[:3]:
     print(char, freq)
+
